@@ -1,3 +1,2 @@
-cd C:\Users\pc\Desktop\DcBot
+cd lenarch
 node bot.js
-
